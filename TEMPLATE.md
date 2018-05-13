@@ -48,7 +48,7 @@ $ command -optionA arg1 arg2 ...
 $ command -optionB arg1 arg2 ...
 ```
 
-## :information_source: Anyhthing else
+## :information_source: Anything else
 <!-- show how to test, how to contribute -->
 
 ## :pencil: Author
