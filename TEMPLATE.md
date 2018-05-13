@@ -11,20 +11,48 @@ OverviewOverviewOverviewOverview
 
 ### DEMO
 
-![](https://dummyimage.com/640x320&text=demo-image)
+![](https://dummyimage.com/320x160&text=demo-image)
+<!-- add gif image if you like -->
 
 ## :white_check_mark: Features
+<!-- list up your product features. -->
 - a
 - b
 - c
 
-## :arrow_forward: Usage
+---
 
 ## :floppy_disk: Install
+### Requirements
+<!-- show dependencies first -->
+* xxx v0.0.0+
+* yyy v0.0.0+
+* zzz v0.0.0+
 
-## :book: Anyhthing else
+### Step
+1. Install
+1. Setup
+1. ...
+
+## :arrow_forward: Usage
+UsageUsageUsage
+<!-- show basic usage -->
+
+*usage1*
+```
+$ command -optionA arg1 arg2 ...
+```
+
+*usage2*
+```
+$ command -optionB arg1 arg2 ...
+```
+
+## :information_source: Anyhthing else
+<!-- show how to test, how to contribute -->
 
 ## :pencil: Author
+<!-- your name -->
 
 ## :clipboard: LICENCE
 MIT
